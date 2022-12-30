@@ -1,0 +1,131 @@
+[{
+        "id": 1,
+        "name": "Andre Iguodala",
+        "imageName": "andre",
+        "team": {
+            "id": "100",
+            "name": "Golden State",
+            "imageName": "gs"
+        },
+        "age": 35,
+        "height": "6' 6\"",
+        "weight": 215
+    },
+    {
+        "id": 2,
+        "name": "Danny Green",
+        "imageName": "danny",
+        "team": {
+            "id": "101",
+            "name": "Toronto",
+            "imageName": "tr"
+        },
+        "age": 31,
+        "height": "6' 4\"",
+        "weight": 175
+    },
+    {
+        "id": 3,
+        "name": "DeMarcus Cousins",
+        "imageName": "demarc",
+        "team": {
+            "id": "100",
+            "name": "Golden State",
+            "imageName": "gs"
+        },
+        "age": 28,
+        "height": "6' 1\"",
+        "weight": 180
+    },
+    {
+        "id": 4,
+        "name": "Draymond Green",
+        "imageName": "dray",
+        "team": {
+            "id": "100",
+            "name": "Golden State",
+            "imageName": "gs"
+        },
+        "age": 29,
+        "height": "5' 11\"",
+        "weight": 170
+    },
+    {
+        "id": 5,
+        "name": "Kawhi Leonard",
+        "imageName": "kawhi",
+        "team": {
+            "id": "101",
+            "name": "Toronto",
+            "imageName": "tr"
+        },
+        "age": 39,
+        "height": "6' 11\"",
+        "weight": 210
+    },
+    {
+        "id": 6,
+        "name": "Klay Thompson",
+        "imageName": "klay",
+        "team": {
+            "id": "100",
+            "name": "Golden State",
+            "imageName": "gs"
+        },
+        "age": 24,
+        "height": "6' 10\"",
+        "weight": 190
+    },
+    {
+        "id": 7,
+        "name": "Kyle Lowry",
+        "imageName": "kyle",
+        "team": {
+            "id": "101",
+            "name": "Toronto",
+            "imageName": "tr"
+        },
+        "age": 32,
+        "height": "6' 11\"",
+        "weight": 215
+    },
+    {
+        "id": 8,
+        "name": "Marc Gasol",
+        "imageName": "marc",
+        "team": {
+            "id": "101",
+            "name": "Toronto",
+            "imageName": "tr"
+        },
+        "age": 26,
+        "height": "7' 01\"",
+        "weight": 188
+    },
+    {
+        "id": 9,
+        "name": "Pascal Siakam",
+        "imageName": "siak",
+        "team": {
+            "id": "101",
+            "name": "Toronto",
+            "imageName": "tr"
+        },
+        "age": 31,
+        "height": "5' 11\"",
+        "weight": 240
+    },
+    {
+        "id": 10,
+        "name": "Stephen Curry",
+        "imageName": "steph",
+        "team": {
+            "id": "100",
+            "name": "Golden State",
+            "imageName": "gs"
+        },
+        "age": 29,
+        "height": "6' 08\"",
+        "weight": 230
+    }
+]
